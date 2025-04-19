@@ -48,7 +48,6 @@ The **Support Vector Machine** (SVM) model outperformed all others and was selec
 ## 📂 Files
 
 - `Project_Data.csv` — Original dataset
-- `Preprocessed_Project_Data.csv` — Cleaned and encoded dataset
 - `student_overdraft_prediction.ipynb` — Main Jupyter notebook with full workflow
 - `README.md` — Project documentation
 
